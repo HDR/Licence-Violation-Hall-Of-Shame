@@ -1,7 +1,7 @@
 
 # Licence Violation Hall Of Shame
 
-A list of Licence violations, this list exists as a deterent, if you violate my licence, you will be publically shamed!
+A list of Licence violations, this list exists as a deterent, if you violate my licence you will be publically shamed!
 
 
 
