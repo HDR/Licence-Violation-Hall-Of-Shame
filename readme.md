@@ -15,4 +15,8 @@ A list of Licence violations, this list exists as a deterent, if you violate my 
 - pariahbooksandgames - [Selling Camera Flashcarts, using my image on their listing.](https://i.imgur.com/4djTdVS.png)
 
 
+## [HDR/MBC5-Flashcart](https://github.com/HDR/MBC5-Flashcart) - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+- dinnershow / doublejuwel / Fuhang - [Breaking the licence by selling boards on "Naver"](https://imgur.com/a/PLvIZyJ)
+
 ![Licence](https://user-images.githubusercontent.com/20230450/186865026-d58434ca-3893-469f-8fdb-50fdc21a409c.png)
