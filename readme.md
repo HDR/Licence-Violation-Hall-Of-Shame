@@ -20,3 +20,8 @@ A list of Licence violations, this list exists as a deterent, if you violate my 
 - dinnershow / doublejuwel / Fuhang - [Breaking the licence by selling boards on "Naver"](https://imgur.com/a/PLvIZyJ)
 
 ![Licence](https://user-images.githubusercontent.com/20230450/186865026-d58434ca-3893-469f-8fdb-50fdc21a409c.png)
+
+
+## [CR2Retainer](https://oshpark.com/shared_projects/XSjucPvH) - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+- emkg1emkg - [Breaking the license by selling boards on Mercari](https://i.imgur.com/P5U97Vl.png)
