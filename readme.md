@@ -24,9 +24,10 @@ A list of Licence violations, this list exists as a deterent, if you violate my 
 
 - emkg1emkg - [Breaking the license by selling boards on Mercari](https://i.imgur.com/P5U97Vl.png)
 
-![Licence](https://user-images.githubusercontent.com/20230450/186865026-d58434ca-3893-469f-8fdb-50fdc21a409c.png)
-
 
 ## [AGB-E05-01](https://github.com/HDR/NintendoPCBs/tree/master/AGB-E05-01) - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 - retro_james [Breaking the license by selling boards on ebay](https://i.imgur.com/XZ1L7M1.png)
+
+
+![Licence](https://user-images.githubusercontent.com/20230450/186865026-d58434ca-3893-469f-8fdb-50fdc21a409c.png)
