@@ -14,6 +14,8 @@ A list of Licence violations, this list exists as a deterent, if you violate my 
 
 - pariahbooksandgames - [Selling Camera Flashcarts, using my image on their listing.](https://i.imgur.com/4djTdVS.png)
 
+- Manuel R. - [Selling Camera flashcarts on a spanish buy/sell website](https://i.imgur.com/bj1OWRP.png)
+
 
 ## [HDR/MBC5-Flashcart](https://github.com/HDR/MBC5-Flashcart) - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
