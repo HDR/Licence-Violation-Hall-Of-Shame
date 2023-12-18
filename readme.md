@@ -16,6 +16,8 @@ A list of Licence violations, this list exists as a deterent, if you violate my 
 
 - Manuel R. - [Selling Camera flashcarts on a spanish buy/sell website](https://i.imgur.com/bj1OWRP.png)
 
+- Raphaël BOICHOT - [Telling people to violate the license](https://twitter.com/MartinRefseth/status/1736793436664049988)
+
 
 ## [HDR/MBC5-Flashcart](https://github.com/HDR/MBC5-Flashcart) - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
