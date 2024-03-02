@@ -3,6 +3,7 @@
 
 A list of Licence violations, this list exists as a deterent, if you violate my licence you will be publically shamed!
 
+Only public information (like usernames) will be used.
 
 
 ## [HDR/MBC30-Flashcart](https://github.com/HDR/MBC30-Flashcart) - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
