@@ -34,5 +34,9 @@ Only public information (like usernames) will be used.
 
 - retro_james [Breaking the license by selling boards on ebay](https://i.imgur.com/XZ1L7M1.png)
 
+## [AGB-E02-20](https://github.com/HDR/NintendoPCBs/tree/master/AGB-E02-20) - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+- Allan's Curios [Selling boards on ebay](https://i.imgur.com/AWwEWjv.png)
+
 
 ![Licence](https://user-images.githubusercontent.com/20230450/186865026-d58434ca-3893-469f-8fdb-50fdc21a409c.png)
